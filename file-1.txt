@@ -1,2 +1,3 @@
 this is my first line
 Hi I'm Alex - what do you think of these changes?
+This is the third line
